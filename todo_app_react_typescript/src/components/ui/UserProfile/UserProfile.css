@@ -1,0 +1,32 @@
+.logout {
+  background-color: #0747a1;
+  color: aliceblue;
+  padding: 10px;
+  min-width: 0;
+  display: flex;
+  align-items: center;
+  width: fit-content;
+  margin: 0;
+  margin-top: 10px;
+}
+
+.show {
+  top: 42px;
+  opacity: 1;
+}
+
+.hide {
+  top: -100px;
+  opacity: 0;
+}
+.logout_container {
+  background-color: aliceblue;
+  position: absolute;
+  right: -40px;
+  min-width: 100px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  transition: 0.3s ease-in-out;
+}
