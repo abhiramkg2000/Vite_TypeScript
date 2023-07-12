@@ -1,1 +1,1 @@
-This repository contains projects made while learning TypeScript
+This repository contains projects made while learning TypeScript.
